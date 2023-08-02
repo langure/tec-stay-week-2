@@ -23,4 +23,7 @@ In machine learning, features are the measurable characteristics or attributes e
 
 The provided code is a Python script that allows users to input the URL of a webpage they wish to parse for textual content. The script uses the requests library to fetch the webpage content and then employs BeautifulSoup from the bs4 library to parse the HTML and extract the text content from the webpage. The extracted text is then saved to a text file named parsed_text.txt. After saving the content to the file, the script proceeds with text preprocessing, converting the text to lowercase and removing punctuation using regular expressions. Next, it tokenizes the preprocessed text into individual words and characters. The resulting word and character tokens are printed to the console, allowing users to observe the parsed content in a structured and processed form. This code is useful for gathering and preprocessing textual data from a webpage, which can be further analyzed or used in natural language processing tasks.
 
+    python -m venv venv
+    source ./venv/bin/activate
     pip install -r requirements.txt
+    python main.py
