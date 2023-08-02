@@ -18,3 +18,9 @@ Tokens are the atomic units of text, representing individual elements such as wo
 
 ## Features in the Context of Machine Learning:
 In machine learning, features are the measurable characteristics or attributes extracted from data that represent the input to a predictive model. For NLP tasks, features can include word frequencies, n-grams, and other statistical representations derived from the tokenized text. Defining relevant features is essential because they capture the relevant information from the data that can influence the final prediction. Carefully selected features help the machine learning model understand the underlying patterns in the text and make accurate predictions for tasks like text classification, named entity recognition, and sentiment analysis.
+
+## Practical exercise: Implement a simple tokenizer
+
+The provided code is a Python script that allows users to input the URL of a webpage they wish to parse for textual content. The script uses the requests library to fetch the webpage content and then employs BeautifulSoup from the bs4 library to parse the HTML and extract the text content from the webpage. The extracted text is then saved to a text file named parsed_text.txt. After saving the content to the file, the script proceeds with text preprocessing, converting the text to lowercase and removing punctuation using regular expressions. Next, it tokenizes the preprocessed text into individual words and characters. The resulting word and character tokens are printed to the console, allowing users to observe the parsed content in a structured and processed form. This code is useful for gathering and preprocessing textual data from a webpage, which can be further analyzed or used in natural language processing tasks.
+
+    pip install -r requirements.txt
