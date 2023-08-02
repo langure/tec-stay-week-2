@@ -2,6 +2,14 @@
 
 Week 2 of the course focuses on Text Preprocessing and Tokenization, fundamental techniques used in Natural Language Processing (NLP). In this week, students will learn how to prepare textual data for analysis by performing essential preprocessing steps, such as lowercasing and punctuation removal. Additionally, they will explore the concept of tokenization, which involves breaking text into individual units (tokens) for further analysis. A practical exercise will guide students in implementing a simple tokenizer to gain hands-on experience.
 
+## Readings:
+
+[What is a word, What is a sentence? Problems of Tokenization](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa80793d1d41d5241017a8fc755b7efc362a6439)
+
+[Text preprocessing for text mining in organizational research](https://journals.sagepub.com/doi/pdf/10.1177/1094428120971683)
+
+[Text preprocessing for unsupervised learning](https://arthurspirling.org/documents/preprocessing.pdf)
+
 ## Text Preprocessing and Its Importance:
 Text preprocessing is a crucial step in NLP, aimed at transforming raw text data into a more structured and manageable format. It involves various operations, such as converting text to lowercase, removing punctuation, handling special characters, and eliminating irrelevant information like stop words. The primary goals of text preprocessing are to reduce the dimensionality of the data, improve data quality, and enhance the efficiency and accuracy of NLP models. Clean and standardized text data enable more meaningful analysis, better model training, and facilitate more accurate predictions.
 
