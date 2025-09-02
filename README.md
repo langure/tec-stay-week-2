@@ -4,9 +4,9 @@ Week 2 of the course focuses on Text Preprocessing and Tokenization, fundamental
 
 ## Readings:
 
-[What is a word, What is a sentence? Problems of Tokenization](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aa80793d1d41d5241017a8fc755b7efc362a6439)
+[From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf)
 
-[Text preprocessing for text mining in organizational research](https://journals.sagepub.com/doi/pdf/10.1177/1094428120971683)
+[Word Embeddings: A Comprehensive Survey](https://www.scielo.org.mx/scielo.php?pid=S1405-55462024000402005&script=sci_arttext)
 
 [Text preprocessing for unsupervised learning](https://arthurspirling.org/documents/preprocessing.pdf)
 
